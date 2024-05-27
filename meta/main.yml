@@ -1,0 +1,6 @@
+---
+galaxy_info:
+  author: lldb3
+  description: Role to setup docker and add running user to the docker group
+  license: MIT
+  min_ansible_version: '1.0'
